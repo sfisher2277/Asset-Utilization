@@ -1,4 +1,4 @@
-# Asset-Utilization
+# Asset Utilization
 
 The company wanted an easy way to track how much newly-purchased aircraft were being utilized. The request was for a simple report that automatically tracks how many hours each aircraft flew in the previous day, calendar month, and rolling 30-day lookback. I also included a trend graph for quick evaluation of whether utilization is increasing, remaining still, or decreasing.
 
