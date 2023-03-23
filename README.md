@@ -7,4 +7,4 @@ The biggest challenge was the direction from the CEO that the report be shared w
 The report is also available as an interactive dashboard for those users in executive levels who have Tableau licenses.
 
 
-![](https://github.com/sfisher2277/Asset-Utilization/blob/main/images/Fulfillment.JPG)
+![](https://github.com/sfisher2277/Asset-Utilization/blob/main/images/Fulfillment.JPeG)
